@@ -1,0 +1,86 @@
+    <p>
+          <img src="./Become an operating partner/Number2.png" alt="" />
+          20+ million Americans receive mental
+          <br />
+          health services each year
+        </p>
+        <p>
+          <img src="./Become an operating partner/Number3.png" alt="" />
+          Employment of therapists focusing in
+          <br />
+          mental health, substance abuse, and
+          <br />
+          behavioral disorders, projected to grow
+          <br />
+          22% from 2018 to 2028
+        </p>
+        <p>
+          <img src="./Become an operating partner/Number4.png" alt="" />
+          Revolutionary experience drives category
+          <br />
+          separation
+        </p>
+        <p>
+          <img src="./Become an operating partner/Number5.png" alt="" />
+          Remarkable design and world-class brand, <br />
+          from the founders of Drybar & Squeeze
+        </p>
+
+        <div
+          style="
+            width: 315px;
+            height: 347.5px;
+            top: 3013px;
+            left: 396px;
+            gap: 0px;
+            opacity: 0px;
+
+            font-family: Sofia Pro;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24.75px;
+            text-align: center;
+            color: #2f6079;
+          "
+        >
+          <p>
+            <img src="./Become an operating partner/Number6.png" alt="" />
+
+            <span> Strong commitment to people, service,</span>
+            <br />
+            <span style="display: block; text-align: left; margin-left: 50px">
+              and community</span
+            >
+          </p>
+
+          <p>
+            <img src="./Become an operating partner/Number7.png" alt="" />
+            Industry-leading mobile and website
+            <br />
+            <span style="display: block; text-align: left; margin-left: 50px">
+              technology</span
+            >
+          </p>
+          <p>
+            <img src="./Become an operating partner/Number8.png" alt="" />
+            Membership program designed to delight
+            <br />
+
+            <span style="display: block; text-align: left; margin-left: 50px">
+              and engage loyal guests</span
+            >
+          </p>
+          <p>
+            <img src="./Become an operating partner/Number9.png" alt="" />
+            Sophisticated systems and processes that
+            <br />
+            drive successful, efficient operations
+          </p>
+          <p>
+            <img src="./Become an operating partner/Number10.png" alt="" />
+            Experienced leadership focused on <br />
+            creating a better experience not only for <br />guests, but for
+            employees and operating <br />partners as well
+          </p>
+        </div>
+      </div>
